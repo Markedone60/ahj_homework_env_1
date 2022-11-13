@@ -1,7 +1,3 @@
-# Webpack5
+# ENV_1
 
-[Информация о релизе Webpack 5](https://webpack.js.org/blog/2020-10-10-webpack-5-release/)
-
-[Migration Guide](https://webpack.js.org/migrate/5/)
-
-
+[![Build status](https://ci.appveyor.com/api/projects/status/ba502rf2r7q0bll7?svg=true)](https://ci.appveyor.com/project/Markedone60/ahj-homework-env-1)
